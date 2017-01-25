@@ -1,4 +1,4 @@
-# Social-Networking--Twitter-Friend-List-API
+# Social Networking Twitter Get User_Timeline and Status API
 
 The Python Program Prompts the user to enter twiiter account for the friend for whom the user wishes to see the friend list 
 

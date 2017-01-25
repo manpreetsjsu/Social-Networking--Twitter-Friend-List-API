@@ -2,7 +2,7 @@ import urllib
 import oauth2 as oauth
 
 
-import hidden
+import hidden_github
 import json
 
 def augment(url, parameters) :
